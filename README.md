@@ -1,4 +1,4 @@
-ystem Monitoring Script
+system Monitoring Script
 
 ## Project Overview
 
@@ -61,9 +61,7 @@ Log saved to: logs/system_monitor.log
 
 Sample values are illustrative.
 
-## Log File
 
-logs/system-monitor.log
 
 ## Author
 
